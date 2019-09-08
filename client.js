@@ -18,7 +18,7 @@ function init(bundle, parent, options = {}) {
   );
 
   // Load the initial environment
-  r360.compositor.setBackground(r360.getAssetURL('modern_buildings.jpg'));
+  r360.compositor.setBackground(r360.getAssetURL('vatican_road_8k.jpg'));
 }
 
 window.React360 = {init};

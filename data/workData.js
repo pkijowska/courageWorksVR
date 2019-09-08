@@ -6,14 +6,14 @@ export default work = {
       * You can browse my collection of contemporary art.
       * Everyone is welcome, even if you just want to have a peak!
       * Reasonable prices!`,
-      img: 'modern_buildings.jpg',
+      img: 'vatican_road_8k.jpg',
     adjacentRooms: ['Exhibition'],
   },
   Exhibition: {
     roomName: 'Exhibition' ,
     info: `
       * Currently selling Banksy, Bobrowolski and Hush art.`,
-    img: 'exhibition.jpg',
+    img: 'artist_workshop_8k.jpg',
     adjacentRooms: ['Work']
   }
 }
